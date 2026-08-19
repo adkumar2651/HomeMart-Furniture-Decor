@@ -1,9 +1,8 @@
-[HomeMart_Internship_Report.pdf](https://github.com/user-attachments/files/31232373/HomeMart_Internship_Report.pdf)
 # 🏠 HomeMart – Furniture & Decor
 
 > A premium, responsive furniture and home décor e-commerce website built as an internship project.
 
-[🌐 Live Demo](https://home-mart-furniture-decor.vercel.app/) • [▶️ Video Demonstration](https://youtu.be/_1KYu8BbJ40) • [📄 Internship Report](https://github.com/adkumar2651/HomeMart-Furniture-Decor/blob/main/HomeMart_Internship_Report.pdf)
+[🌐 Live Demo](https://home-mart-furniture-decor.vercel.app/) • [▶️ Video Demonstration](https://youtu.be/_1KYu8BbJ40)
 
 ---
 
@@ -19,7 +18,7 @@ The project was developed as part of a **Web Development / UI/UX & Frontend Deve
 
 ## 🎯 Objective
 
-The main objective of HomeMart is to create a warm, premium and user-friendly online furniture shopping experience that reflects an artisanal furniture brand while providing practical e-commerce functionality.
+The main objective of HomeMart is to create a warm, premium, and user-friendly online furniture shopping experience that reflects an artisanal furniture brand while providing practical e-commerce functionality.
 
 The project focuses on:
 
@@ -59,7 +58,7 @@ The project focuses on:
 - Wishlist functionality
 - Product detail modal
 - Quantity management
-- Discount/promo code system
+- Discount and promo code system
 - Shipping calculation
 - Tax calculation
 - Real-time order summary
@@ -87,7 +86,11 @@ The project focuses on:
 
 ## 📱 Responsive Design
 
-HomeMart is designed to provide a consistent experience across desktop, tablet and mobile devices.
+HomeMart is designed to provide a consistent experience across:
+
+- Desktop
+- Tablet
+- Mobile devices
 
 The responsive layout adapts:
 
@@ -101,7 +104,7 @@ The responsive layout adapts:
 - Modals
 - Content sections
 
-The mobile experience is optimized for readability, usability and smooth navigation without horizontal overflow.
+The mobile experience is optimized for readability, usability, and smooth navigation without horizontal overflow.
 
 ---
 
@@ -118,7 +121,7 @@ The website follows a warm and sophisticated furniture showroom aesthetic.
 The visual language combines:
 
 - Elegant serif headings
-- Clean readable body typography
+- Clean and readable body typography
 - Spacious layouts
 - Premium product presentation
 - Consistent spacing
@@ -132,7 +135,7 @@ This creates a cohesive and trustworthy shopping experience throughout the websi
 
 - **HTML5** – Website structure
 - **CSS3** – Styling and responsive design
-- **JavaScript** – Interactivity and e-commerce functionality
+- **JavaScript (ES6+)** – Interactivity and e-commerce functionality
 - **Responsive Web Design**
 - **UI/UX Design Principles**
 - **Component-Based Layout Design**
@@ -172,43 +175,45 @@ Responsive behavior
 Navigation
 Product detail functionality
 Cart functionality
+Wishlist functionality
 Checkout flow
 Price calculations
 Order summary
 Mobile usability
+Layout consistency
 
-The final build delivers a cohesive and polished furniture e-commerce experience ready for demonstration.
+The final build delivers a cohesive and polished furniture e-commerce experience suitable for demonstration and internship evaluation.
 
 📸 Project Preview
 
 The project includes:
 
-Homepage with hero banner
+Homepage with premium hero banner
+Furniture category sections
+Product browsing experience
 Product detail experience
-Secure checkout interface
-Brand story / Our Story section
+Shopping cart
+Wishlist functionality
+Checkout interface
+Brand story / "Our Story" section
 
-These screens demonstrate the overall visual identity and functionality of HomeMart.
+These screens demonstrate the overall visual identity, responsive design, and e-commerce functionality of HomeMart.
 
 🌐 Project Links
-Live Website
+🌐 Live Website
 
-https://home-mart-furniture-decor.vercel.app/
+Visit HomeMart
 
 🎥 Video Demonstration
 
-https://youtu.be/_1KYu8BbJ40
-
-📄 Project Report
-
-View / Download HomeMart Internship Report
+Watch Project Demonstration
 
 📂 Project Structure
 HomeMart-Furniture-Decor/
 │
 ├── index.html
 ├── style.css
-├── script.js
+└── script.js
 👨‍💻 Author
 
 Aditya Kumar Gupta
@@ -219,6 +224,6 @@ Web Development / Frontend Development
 
 Completed ✅
 
-HomeMart – Furniture & Decor was developed as an internship project demonstrating frontend development, responsive UI design and e-commerce workflow implementation.
+HomeMart – Furniture & Decor was developed as an internship project demonstrating frontend development, responsive UI design, UI/UX principles, and e-commerce workflow implementation.
 
 Made with ❤️ by Aditya Kumar Gupta
