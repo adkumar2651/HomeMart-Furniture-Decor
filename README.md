@@ -3,7 +3,7 @@
 
 > A premium, responsive furniture and home décor e-commerce website built as an internship project.
 
-[🌐 Live Demo](https://home-mart-furniture-decor.vercel.app/) • [▶️ Video Demonstration](https://youtu.be/_1KYu8BbJ40) • [📄 Internship Report](./HomeMart_Internship_Report.pdf)
+[🌐 Live Demo](https://home-mart-furniture-decor.vercel.app/) • [▶️ Video Demonstration](https://youtu.be/_1KYu8BbJ40) • [📄 Internship Report](https://github.com/adkumar2651/HomeMart-Furniture-Decor/blob/main/HomeMart_Internship_Report.pdf)
 
 ---
 
@@ -209,7 +209,6 @@ HomeMart-Furniture-Decor/
 ├── index.html
 ├── style.css
 ├── script.js
-└── HomeMart_Internship_Report.pdf
 👨‍💻 Author
 
 Aditya Kumar Gupta
