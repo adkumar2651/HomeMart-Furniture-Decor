@@ -226,4 +226,4 @@ Completed ✅
 
 HomeMart – Furniture & Decor was developed as an internship project demonstrating frontend development, responsive UI design, UI/UX principles, and e-commerce workflow implementation.
 
-Made with ❤️ by Aditya Kumar Gupta
+Made by Aditya Kumar Gupta
