@@ -1,3 +1,4 @@
+[HomeMart_Internship_Report.pdf](https://github.com/user-attachments/files/31232373/HomeMart_Internship_Report.pdf)
 # 🏠 HomeMart – Furniture & Decor
 
 > A premium, responsive furniture and home décor e-commerce website built as an internship project.
